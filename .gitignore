@@ -1,0 +1,18 @@
+# Arquivos compilados do C++
+*.exe
+*.o
+backend/main
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Pastas de ambiente virtual
+.env
+venv/
+env/
+
+# Arquivos temporários do OS
+.DS_Store
+Thumbs.db
